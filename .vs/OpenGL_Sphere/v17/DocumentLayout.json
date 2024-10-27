@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coding\\SPH-Implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEA64CB-A018-490E-AE66-768F0EECFB7E}|OpenGL_Sphere\\OpenGL_Sphere.vcxproj|C:\\Coding\\SPH-Implementation\\OpenGL_Sphere\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1AEA64CB-A018-490E-AE66-768F0EECFB7E}|OpenGL_Sphere\\OpenGL_Sphere.vcxproj|solutionrelative:OpenGL_Sphere\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Coding\\SPH-Implementation\\OpenGL_Sphere\\source.cpp",
+              "RelativeDocumentMoniker": "OpenGL_Sphere\\source.cpp",
+              "ToolTip": "C:\\Coding\\SPH-Implementation\\OpenGL_Sphere\\source.cpp",
+              "RelativeToolTip": "OpenGL_Sphere\\source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACECAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T18:05:37.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

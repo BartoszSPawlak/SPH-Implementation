@@ -1,0 +1,10 @@
+﻿  source.cpp
+C:\Coding\SPH Implementation\OpenGL_Sphere\source.cpp(92,19): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Coding\SPH Implementation\OpenGL_Sphere\source.cpp(103,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Coding\SPH Implementation\OpenGL_Sphere\source.cpp(133,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Coding\SPH Implementation\OpenGL_Sphere\source.cpp(159,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Coding\SPH Implementation\OpenGL_Sphere\source.cpp(163,65): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Coding\SPH Implementation\OpenGL_Sphere\source.cpp(638,1): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Coding\SPH Implementation\OpenGL_Sphere\source.cpp(639,1): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Coding\SPH Implementation\OpenGL_Sphere\source.cpp(640,1): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  OpenGL_Sphere.vcxproj -> C:\Coding\SPH Implementation\Debug\OpenGL_Sphere.exe
