@@ -2,7 +2,7 @@
 
 My Engineering thesis that implement Smoothed Particle Hydrodynamics algorithm.
 
-![Network design.](SPH final.PNG)
+![SPH final](SPH final.jpg)
 
 ## License
 
