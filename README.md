@@ -4,4 +4,4 @@
 
 ## License
 
-    This project is distributed under the [MIT license](https://github.com/BartoszSPawlak/SPH-Implementation/blob/main/LICENSE.txt).
+    This project is distributed under the [MIT license](https://github.com/BartoszSPawlak/SPH-Implementation/blob/main/LICENSE.txt)
