@@ -2,7 +2,7 @@
 
 My Engineering thesis that implement Smoothed Particle Hydrodynamics algorithm.
 
-![SPH final](SPH final.jpg)
+![SPH final]([SPH final.jpg](https://github.com/BartoszSPawlak/SPH-Implementation/blob/main/SPH%20final.jpg))
 
 ## License
 
